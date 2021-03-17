@@ -1,0 +1,22 @@
+a {
+	color: red;
+}
+
+.box {
+  width: auto;
+  height: auto;
+  margin: 10px;
+  padding: 25px;
+  border: 5px solid black;
+}
+.boxx {
+  margin: 20px;
+  padding: 20px;
+  border: 5px solid black;
+  font-size: 16px; 
+}
+.sameline {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
